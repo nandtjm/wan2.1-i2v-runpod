@@ -1,0 +1,1 @@
+# wan2.1-i2v-runpod
